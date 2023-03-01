@@ -1,0 +1,17 @@
+{
+  "name": "proxies-reflects",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.40.3",
+    "@slidev/theme-default": "*"
+  },
+  "devDependencies": {
+    "@iconify-json/lucide": "^1.1.55",
+    "playwright-chromium": "^1.31.1"
+  }
+}
